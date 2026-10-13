@@ -1,0 +1,530 @@
+{
+  "n_posts": 546,
+  "by_post_type": {
+    "link": {
+      "n": 498,
+      "median_score": 98.0,
+      "mean_score": 189.9,
+      "median_comments": 50.0,
+      "mean_comments": 113.5,
+      "median_total": 155.5,
+      "mean_total": 303.4
+    },
+    "show": {
+      "n": 41,
+      "median_score": 62,
+      "mean_score": 108.1,
+      "median_comments": 20,
+      "mean_comments": 38.4,
+      "median_total": 82,
+      "mean_total": 146.5
+    },
+    "text": {
+      "n": 5,
+      "median_score": 152,
+      "mean_score": 310.6,
+      "median_comments": 108,
+      "mean_comments": 143,
+      "median_total": 260,
+      "mean_total": 453.6
+    },
+    "ask": {
+      "n": 2,
+      "median_score": 288.0,
+      "mean_score": 288,
+      "median_comments": 406.0,
+      "mean_comments": 406,
+      "median_total": 694.0,
+      "mean_total": 694
+    }
+  },
+  "by_title_length": {
+    "<=40": {
+      "n": 182,
+      "median_score": 132.5,
+      "mean_score": 249.0,
+      "median_comments": 67.5,
+      "mean_comments": 135.3,
+      "median_total": 207.0,
+      "mean_total": 384.3
+    },
+    "41-60": {
+      "n": 161,
+      "median_score": 99,
+      "mean_score": 145.5,
+      "median_comments": 43,
+      "mean_comments": 90.7,
+      "median_total": 138,
+      "mean_total": 236.1
+    },
+    "61-80": {
+      "n": 200,
+      "median_score": 72.0,
+      "mean_score": 159.6,
+      "median_comments": 29.5,
+      "mean_comments": 100.7,
+      "median_total": 113.0,
+      "mean_total": 260.3
+    },
+    "81-100": {
+      "n": 3,
+      "median_score": 37,
+      "mean_score": 149.7,
+      "median_comments": 2,
+      "mean_comments": 90.7,
+      "median_total": 39,
+      "mean_total": 240.3
+    }
+  },
+  "by_topic": {
+    "Startup": {
+      "n": 2,
+      "median_score": 588.0,
+      "mean_score": 588,
+      "median_comments": 292.0,
+      "mean_comments": 292,
+      "median_total": 880.0,
+      "mean_total": 880
+    },
+    "Business": {
+      "n": 5,
+      "median_score": 277,
+      "mean_score": 339.4,
+      "median_comments": 201,
+      "mean_comments": 282.2,
+      "median_total": 813,
+      "mean_total": 621.6
+    },
+    "Games": {
+      "n": 4,
+      "median_score": 356.0,
+      "mean_score": 574.2,
+      "median_comments": 214.0,
+      "mean_comments": 189.5,
+      "median_total": 570.0,
+      "mean_total": 763.8
+    },
+    "Apple": {
+      "n": 7,
+      "median_score": 187,
+      "mean_score": 188.6,
+      "median_comments": 76,
+      "mean_comments": 178.7,
+      "median_total": 266,
+      "mean_total": 367.3
+    },
+    "Security": {
+      "n": 11,
+      "median_score": 131,
+      "mean_score": 229.5,
+      "median_comments": 49,
+      "mean_comments": 165.5,
+      "median_total": 174,
+      "mean_total": 395
+    },
+    "Open Source": {
+      "n": 7,
+      "median_score": 142,
+      "mean_score": 155.9,
+      "median_comments": 76,
+      "mean_comments": 62.4,
+      "median_total": 174,
+      "mean_total": 218.3
+    },
+    "Other": {
+      "n": 294,
+      "median_score": 96.0,
+      "mean_score": 187.0,
+      "median_comments": 49.5,
+      "mean_comments": 101.2,
+      "median_total": 153.0,
+      "mean_total": 288.1
+    },
+    "Web": {
+      "n": 24,
+      "median_score": 91.0,
+      "mean_score": 177.0,
+      "median_comments": 57.0,
+      "mean_comments": 89.3,
+      "median_total": 147.0,
+      "mean_total": 266.3
+    },
+    "AI": {
+      "n": 121,
+      "median_score": 73,
+      "mean_score": 175.9,
+      "median_comments": 36,
+      "mean_comments": 130.5,
+      "median_total": 128,
+      "mean_total": 306.3
+    },
+    "Programming": {
+      "n": 53,
+      "median_score": 78,
+      "mean_score": 153.5,
+      "median_comments": 35,
+      "mean_comments": 88.0,
+      "median_total": 118,
+      "mean_total": 241.5
+    },
+    "Hardware": {
+      "n": 12,
+      "median_score": 83.5,
+      "mean_score": 129.7,
+      "median_comments": 15.0,
+      "mean_comments": 59.2,
+      "median_total": 111.5,
+      "mean_total": 188.9
+    },
+    "Science": {
+      "n": 6,
+      "median_score": 54.5,
+      "mean_score": 137.8,
+      "median_comments": 22.0,
+      "mean_comments": 51,
+      "median_total": 83.5,
+      "mean_total": 188.8
+    }
+  },
+  "by_weekday": {
+    "Monday": {
+      "n": 133,
+      "median_score": 67,
+      "mean_score": 138.2,
+      "median_comments": 23,
+      "mean_comments": 85.1,
+      "median_total": 101,
+      "mean_total": 223.4
+    },
+    "Tuesday": {
+      "n": 139,
+      "median_score": 45,
+      "mean_score": 128.6,
+      "median_comments": 22,
+      "mean_comments": 86.0,
+      "median_total": 78,
+      "mean_total": 214.6
+    },
+    "Wednesday": {
+      "n": 50,
+      "median_score": 227.5,
+      "mean_score": 325.8,
+      "median_comments": 87.5,
+      "mean_comments": 150.6,
+      "median_total": 361.5,
+      "mean_total": 476.5
+    },
+    "Thursday": {
+      "n": 43,
+      "median_score": 173,
+      "mean_score": 275.9,
+      "median_comments": 95,
+      "mean_comments": 192.2,
+      "median_total": 310,
+      "mean_total": 468.0
+    },
+    "Friday": {
+      "n": 51,
+      "median_score": 186,
+      "mean_score": 265.5,
+      "median_comments": 72,
+      "mean_comments": 134.7,
+      "median_total": 277,
+      "mean_total": 400.3
+    },
+    "Saturday": {
+      "n": 43,
+      "median_score": 142,
+      "mean_score": 193.4,
+      "median_comments": 71,
+      "mean_comments": 111.5,
+      "median_total": 279,
+      "mean_total": 304.9
+    },
+    "Sunday": {
+      "n": 87,
+      "median_score": 77,
+      "mean_score": 170.6,
+      "median_comments": 43,
+      "mean_comments": 102.2,
+      "median_total": 126,
+      "mean_total": 272.7
+    }
+  },
+  "by_hour": {
+    "0": {
+      "n": 17,
+      "median_score": 113,
+      "mean_score": 191.5,
+      "median_comments": 26,
+      "mean_comments": 115.6,
+      "median_total": 136,
+      "mean_total": 307.1
+    },
+    "1": {
+      "n": 15,
+      "median_score": 50,
+      "mean_score": 153.7,
+      "median_comments": 75,
+      "mean_comments": 89.8,
+      "median_total": 126,
+      "mean_total": 243.5
+    },
+    "2": {
+      "n": 14,
+      "median_score": 151.5,
+      "mean_score": 145.3,
+      "median_comments": 104.0,
+      "mean_comments": 99.6,
+      "median_total": 297.0,
+      "mean_total": 244.9
+    },
+    "3": {
+      "n": 14,
+      "median_score": 83.5,
+      "mean_score": 121,
+      "median_comments": 33.5,
+      "mean_comments": 76.2,
+      "median_total": 127.0,
+      "mean_total": 197.2
+    },
+    "4": {
+      "n": 6,
+      "median_score": 214.5,
+      "mean_score": 225.2,
+      "median_comments": 64.5,
+      "mean_comments": 100.7,
+      "median_total": 286.5,
+      "mean_total": 325.8
+    },
+    "5": {
+      "n": 12,
+      "median_score": 193.5,
+      "mean_score": 181.1,
+      "median_comments": 110.5,
+      "mean_comments": 145.2,
+      "median_total": 312.5,
+      "mean_total": 326.3
+    },
+    "6": {
+      "n": 15,
+      "median_score": 65,
+      "mean_score": 130.2,
+      "median_comments": 28,
+      "mean_comments": 67.1,
+      "median_total": 87,
+      "mean_total": 197.3
+    },
+    "7": {
+      "n": 19,
+      "median_score": 68,
+      "mean_score": 147.9,
+      "median_comments": 23,
+      "mean_comments": 124.5,
+      "median_total": 72,
+      "mean_total": 272.4
+    },
+    "8": {
+      "n": 14,
+      "median_score": 19.0,
+      "mean_score": 47.8,
+      "median_comments": 4.5,
+      "mean_comments": 45.2,
+      "median_total": 24.5,
+      "mean_total": 93
+    },
+    "9": {
+      "n": 19,
+      "median_score": 84,
+      "mean_score": 220.7,
+      "median_comments": 45,
+      "mean_comments": 86.4,
+      "median_total": 144,
+      "mean_total": 307.1
+    },
+    "10": {
+      "n": 24,
+      "median_score": 136.0,
+      "mean_score": 234.1,
+      "median_comments": 90.5,
+      "mean_comments": 132.7,
+      "median_total": 226.0,
+      "mean_total": 366.8
+    },
+    "11": {
+      "n": 19,
+      "median_score": 192,
+      "mean_score": 236.1,
+      "median_comments": 79,
+      "mean_comments": 110.9,
+      "median_total": 277,
+      "mean_total": 347
+    },
+    "12": {
+      "n": 35,
+      "median_score": 107,
+      "mean_score": 178.5,
+      "median_comments": 75,
+      "mean_comments": 119.3,
+      "median_total": 178,
+      "mean_total": 297.8
+    },
+    "13": {
+      "n": 32,
+      "median_score": 72.0,
+      "mean_score": 245.0,
+      "median_comments": 43.5,
+      "mean_comments": 178.3,
+      "median_total": 118.5,
+      "mean_total": 423.3
+    },
+    "14": {
+      "n": 26,
+      "median_score": 101.5,
+      "mean_score": 171,
+      "median_comments": 73.0,
+      "mean_comments": 108.0,
+      "median_total": 170.0,
+      "mean_total": 279.0
+    },
+    "15": {
+      "n": 48,
+      "median_score": 109.0,
+      "mean_score": 185.3,
+      "median_comments": 51.0,
+      "mean_comments": 119.4,
+      "median_total": 165.5,
+      "mean_total": 304.6
+    },
+    "16": {
+      "n": 34,
+      "median_score": 101.0,
+      "mean_score": 241.3,
+      "median_comments": 38.0,
+      "mean_comments": 129.3,
+      "median_total": 146.5,
+      "mean_total": 370.6
+    },
+    "17": {
+      "n": 29,
+      "median_score": 69,
+      "mean_score": 125.4,
+      "median_comments": 34,
+      "mean_comments": 76.3,
+      "median_total": 99,
+      "mean_total": 201.8
+    },
+    "18": {
+      "n": 37,
+      "median_score": 140,
+      "mean_score": 208.7,
+      "median_comments": 43,
+      "mean_comments": 101.4,
+      "median_total": 196,
+      "mean_total": 310.1
+    },
+    "19": {
+      "n": 31,
+      "median_score": 64,
+      "mean_score": 142.5,
+      "median_comments": 27,
+      "mean_comments": 57.9,
+      "median_total": 100,
+      "mean_total": 200.4
+    },
+    "20": {
+      "n": 19,
+      "median_score": 34,
+      "mean_score": 134.3,
+      "median_comments": 18,
+      "mean_comments": 100.8,
+      "median_total": 52,
+      "mean_total": 235.1
+    },
+    "21": {
+      "n": 22,
+      "median_score": 182.5,
+      "mean_score": 333.4,
+      "median_comments": 55.5,
+      "mean_comments": 142.2,
+      "median_total": 253.5,
+      "mean_total": 475.6
+    },
+    "22": {
+      "n": 28,
+      "median_score": 61.5,
+      "mean_score": 190.0,
+      "median_comments": 25.5,
+      "mean_comments": 118.6,
+      "median_total": 83.0,
+      "mean_total": 308.6
+    },
+    "23": {
+      "n": 17,
+      "median_score": 104,
+      "mean_score": 114.9,
+      "median_comments": 33,
+      "mean_comments": 95.5,
+      "median_total": 122,
+      "mean_total": 210.4
+    }
+  },
+  "top_domains": {
+    "theguardian.com": {
+      "n": 8,
+      "median_score": 129.0,
+      "mean_score": 159.6,
+      "median_comments": 97.0,
+      "mean_comments": 84.9,
+      "median_total": 234.5,
+      "mean_total": 244.5
+    },
+    "github.com": {
+      "n": 55,
+      "median_score": 90,
+      "mean_score": 139.6,
+      "median_comments": 33,
+      "mean_comments": 64.9,
+      "median_total": 124,
+      "mean_total": 204.5
+    },
+    "bbc.com": {
+      "n": 7,
+      "median_score": 82,
+      "mean_score": 181.6,
+      "median_comments": 3,
+      "mean_comments": 98.1,
+      "median_total": 100,
+      "mean_total": 279.7
+    },
+    "twitter.com": {
+      "n": 7,
+      "median_score": 43,
+      "mean_score": 197,
+      "median_comments": 20,
+      "mean_comments": 271.1,
+      "median_total": 63,
+      "mean_total": 468.1
+    },
+    "nytimes.com": {
+      "n": 5,
+      "median_score": 32,
+      "mean_score": 59.4,
+      "median_comments": 26,
+      "mean_comments": 33.2,
+      "median_total": 54,
+      "mean_total": 92.6
+    },
+    "youtube.com": {
+      "n": 6,
+      "median_score": 32.5,
+      "mean_score": 45.5,
+      "median_comments": 3.0,
+      "mean_comments": 11,
+      "median_total": 35.5,
+      "mean_total": 56.5
+    }
+  },
+  "corr_title_len_vs_score": -0.192,
+  "corr_title_len_vs_comments": -0.111
+}
